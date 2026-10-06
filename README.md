@@ -30,40 +30,26 @@ Problema que resuelve: Realiza operaciones matemáticas básicas con manejo de e
 
 Tecnologías: C
 
-Repositorio: [link]
+Repositorio: https://github.com/jonathanacosta1678-maker/jonathan-acosta/commit/1b70fad1123fad94bd494926e3a42bb2d75fa194
 
 2) Gestor de notas en C
 Problema que resuelve: Permite ingresar, guardar y mostrar notas de estudiantes en un archivo .txt.
 
 Tecnologías: C
 
-Repositorio: [link]
+Repositorio: https://github.com/jonathanacosta1678-maker/jonathan-acosta/commit/1b70fad1123fad94bd494926e3a42bb2d75fa194
 
-Mi enfoque profesional
-Me enfoco en:
-
-Documentar cada proyecto con un README.md detallado
-
-Explicar claramente: problema, tecnologías, instalación y ejecución
-
-Agregar capturas o enlaces de demostración
-
-Construir un “currículum vivo” a través de GitHub
-
-Herramientas para CV digital (ecosistema)
 Complemento mi portafolio digital con herramientas como:
 
 Canva: diseño visual y portafolios integrados
 
 VisualCV: CV web profesional
 
-Novoresume: estructuras optimizadas para reclutadores (ATS)
-
 Contacto
 Si deseas conocer más sobre mis proyectos o colaborar, puedes escribirme:
 
 Correo: jonathanacosta1678@gmail.com
 
-GitHub: [tu link]
+GitHub: https://github.com/jonathanacosta1678-maker
 
-LinkedIn: [tu link]
+
