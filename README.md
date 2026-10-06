@@ -6,7 +6,7 @@ Ubicación: Ciudad de Panamá, Panamá
 Contacto: jonathanacosta1678@gmail.com
 
 
-GitHub: [tu link]
+GitHub: https://github.com/jonathanacosta1678-maker
 
 ¿Quién soy?
 Soy una persona apasionada por la ingeniería de sistemas y la tecnología. Mi objetivo es fortalecer mi empleabilidad, diferenciarme en el mercado laboral y atraer oportunidades profesionales al egresar mediante un ecosistema digital práctico, coherente y bien documentado.
